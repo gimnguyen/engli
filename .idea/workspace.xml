@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77c5660e-9062-4485-98e6-4651f0973703" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Foru.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Grammar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Inputtoeicp6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Inputtoeicp7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Toeic_part_6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Vocabulary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/part5question.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/4u.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/grammar-detail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/grammar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/inputp1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/inputp2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/inputp6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/inputp7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/toeicp6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/vocabulary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/vocalist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/vocaword.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/MAXXTHOR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bao-lixi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bg-line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bg-line2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bg2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bidv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bkr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bot-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/bot-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/br.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/cam-ket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/catalog1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/catalog2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/check-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/chi-phi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/coming-soon-dots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/contact-background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/decoration-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/dic-vu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/fb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/free-consultation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/free-ship.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/free-shipx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/giao-hang.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/hop-giay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/in-cuoi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/in-mau.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/lich-ban.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/lich-de-ban.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/lich-treo-tuong.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/lixi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/logo-than.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/mien-phi-giao-hang.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/news-order.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/ninomax.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/phong-bi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0026.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0028.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0454.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_04541.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0455.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_04551.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0456.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_04561.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0466.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0468.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0469.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0473.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0474.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0475.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0476.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0477.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0478.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0484.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0486.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0495.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0496.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0500.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0501.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/IMG_0508.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/products/chuyen_cP.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/samsung.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/blog1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/blog2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/blog3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/blog4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/blog5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/blog6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/blog7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/blog8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sofa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/san-pham/sp9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/shb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/slide.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/slide2.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/slide3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/slide4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/slider.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/swirl_pattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tgdd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tgdd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tieu-de.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/03263_2048x1365_2048x1365.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/201511161607_agribank_h__a_vang_b_______m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/IMG_8244.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/_MG_3876_8106.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/binh-giu-nhiet-baymax-13-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/bo-bat-dia-su-minh-chau-moi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/c7f67ca409efe7b1befe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/ellevn-decor-feature-gom-nhan-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/gom n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/logo.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/mu-bao-ho-lao-dong-023.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/tb2ka.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tmp/z804103580340-d3b01e2ea6a9658c2027361b91ea768a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/toeicp1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/toeicp7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/trungnguyen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/tui-xach.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/vienthonga.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/viettel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imgs/vinacel.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/application/controllers/InputToeicP1.php" afterPath="$PROJECT_DIR$/application/controllers/Inputtoeicp1.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/application/controllers/InputToeicP2.php" afterPath="$PROJECT_DIR$/application/controllers/Inputtoeicp2.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/application/controllers/InputToeicP3.php" afterPath="$PROJECT_DIR$/application/controllers/Inputtoeicp3.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/application/controllers/InputToeicP5.php" afterPath="$PROJECT_DIR$/application/controllers/Inputtoeicp5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/imgs/toeicp5.png" afterPath="$PROJECT_DIR$/public/imgs/toeicp5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/FeDb.php" afterPath="$PROJECT_DIR$/application/models/FeDb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/InputData.php" afterPath="$PROJECT_DIR$/application/models/InputData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/404.php" afterPath="$PROJECT_DIR$/application/views/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/bottom.php" afterPath="$PROJECT_DIR$/application/views/bottom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/comingsoon.php" afterPath="$PROJECT_DIR$/application/views/comingsoon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/inputp5.php" afterPath="$PROJECT_DIR$/application/views/inputp5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/inputp53.php" afterPath="$PROJECT_DIR$/application/views/inputp53.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/toeic.php" afterPath="$PROJECT_DIR$/application/views/toeic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/toeicp1.php" afterPath="$PROJECT_DIR$/application/views/toeicp1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/toeicp2.php" afterPath="$PROJECT_DIR$/application/views/toeicp2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/toeicp3.php" afterPath="$PROJECT_DIR$/application/views/toeicp3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/toeicp4.php" afterPath="$PROJECT_DIR$/application/views/toeicp4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/toeicp5.php" afterPath="$PROJECT_DIR$/application/views/toeicp5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/toeicp7.php" afterPath="$PROJECT_DIR$/application/views/toeicp7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/top.php" afterPath="$PROJECT_DIR$/application/views/top.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/home-style.css" afterPath="$PROJECT_DIR$/public/css/home-style.css" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6866755">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Vocabulary.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/application/controllers/Vocabulary.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="222">
+                  <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="vocalist.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/application/views/vocalist.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+                  <folding>
+                    <marker date="1537364921509" expanded="true" signature="1312:1343" ph="..." />
+                    <marker date="1537364921509" expanded="true" signature="1312:1440" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="vocabulary.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/application/views/vocabulary.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="545">
+                  <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="124" selection-end-column="43" />
+                  <folding>
+                    <marker date="1537370353969" expanded="true" signature="7104:7232" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="home-style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/public/css/home-style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="144">
+                  <caret line="870" column="0" lean-forward="true" selection-start-line="870" selection-start-column="0" selection-end-line="870" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="home-style.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/public/css/home-style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="488">
+                  <caret line="987" column="22" lean-forward="false" selection-start-line="987" selection-start-column="22" selection-end-line="987" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getToeicPart1Group</find>
+      <find>quest</find>
+      <find>print_r</find>
+      <find>print</find>
+      <find>gansw</find>
+      <find>insertP5</find>
+      <find>echo</find>
+      <find>questimg</find>
+      <find>qespar1</find>
+      <find>co</find>
+      <find>Tramscript</find>
+      <find>ye</find>
+      <find>grammar/detail</find>
+      <find>a:</find>
+      <find>getmay</find>
+      <find>wordindex</find>
+      <find>.worddetail</find>
+      <find>wordpron</find>
+      <find>bg404</find>
+      <find>gcoming</find>
+      <find>uploadImage</find>
+      <find>gram-it</find>
+      <find>gram-</find>
+      <find>part2-list</find>
+      <find>part2-ans</find>
+      <find>part5-list</find>
+      <find>.nav-link, .navbar-brand</find>
+      <find>menu-item</find>
+      <find>go-top</find>
+      <find>vocalist</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;&gt;imgs/icons/</replace>
+      <replace>&lt;?php echo base_url() ?&gt;public/imgs</replace>
+      <replace>vTrueAns</replace>
+      <replace>upload</replace>
+      <replace>Transcript</replace>
+      <replace>grammar/detail/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/controllers/Coming_soon.php" />
+        <option value="$PROJECT_DIR$/application/controllers/YiZSzkTGaa.php" />
+        <option value="$PROJECT_DIR$/application/controllers/InputToeicP1.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Toeic_part_1.php" />
+        <option value="$PROJECT_DIR$/application/controllers/InputToeicP3.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Toeic.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/application/views/inputp53.php" />
+        <option value="$PROJECT_DIR$/application/views/inputp52.php" />
+        <option value="$PROJECT_DIR$/application/controllers/part5question.php" />
+        <option value="$PROJECT_DIR$/application/controllers/InputToeicP5.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Toeic_part_6.php" />
+        <option value="$PROJECT_DIR$/application/views/inputpart6.php" />
+        <option value="$PROJECT_DIR$/application/views/inputp7.php" />
+        <option value="$PROJECT_DIR$/application/models/InputData.php" />
+        <option value="$PROJECT_DIR$/application/controllers/InputToeicP7.php" />
+        <option value="$PROJECT_DIR$/application/controllers/InputToeicP6.php" />
+        <option value="$PROJECT_DIR$/application/views/inputp2.php" />
+        <option value="$PROJECT_DIR$/application/controllers/InputToeicP2.php" />
+        <option value="$PROJECT_DIR$/application/views/inputp6.php" />
+        <option value="$PROJECT_DIR$/application/views/inputp5.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Inputtoeicp5.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Inputtoeicp7.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Grammar.php" />
+        <option value="$PROJECT_DIR$/application/views/voca-list.php" />
+        <option value="$PROJECT_DIR$/application/controllers/vocabulary.php" />
+        <option value="$PROJECT_DIR$/application/models/FeDb.php" />
+        <option value="$PROJECT_DIR$/application/views/vocaword.php" />
+        <option value="$PROJECT_DIR$/application/views/404.php" />
+        <option value="$PROJECT_DIR$/application/views/comingsoon.php" />
+        <option value="$PROJECT_DIR$/application/views/4u.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Foru.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Inputtoeicp6.php" />
+        <option value="$PROJECT_DIR$/application/views/inputp1.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Inputtoeicp1.php" />
+        <option value="$PROJECT_DIR$/application/views/toeicp1.php" />
+        <option value="$PROJECT_DIR$/application/views/toeicp6.php" />
+        <option value="$PROJECT_DIR$/application/views/toeicp7.php" />
+        <option value="$PROJECT_DIR$/application/views/toeic.php" />
+        <option value="$PROJECT_DIR$/application/views/grammar.php" />
+        <option value="$PROJECT_DIR$/application/views/toeicp3.php" />
+        <option value="$PROJECT_DIR$/application/views/toeicp2.php" />
+        <option value="$PROJECT_DIR$/application/views/toeicp4.php" />
+        <option value="$PROJECT_DIR$/application/views/toeicp5.php" />
+        <option value="$PROJECT_DIR$/application/views/top.php" />
+        <option value="$PROJECT_DIR$/application/views/bottom.php" />
+        <option value="$PROJECT_DIR$/application/views/grammar-detail.php" />
+        <option value="$PROJECT_DIR$/application/views/vocalist.php" />
+        <option value="$PROJECT_DIR$/public/css/home-style.css" />
+        <option value="$PROJECT_DIR$/application/views/vocabulary.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Vocabulary.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="242" />
+    <option name="y" value="235" />
+    <option name="width" value="1576" />
+    <option name="height" value="763" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="toeic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toeic" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="toeic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toeic" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="toeic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toeic" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="toeic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toeic" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="toeic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toeic" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="toeic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toeic" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../than" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\toeic\application\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77c5660e-9062-4485-98e6-4651f0973703" name="Default" comment="" />
+      <created>1530194244767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530194244767</updated>
+      <workItem from="1530194245976" duration="710000" />
+      <workItem from="1530351742757" duration="19488000" />
+      <workItem from="1530624113177" duration="6967000" />
+      <workItem from="1530660278828" duration="788000" />
+      <workItem from="1530712922109" duration="4231000" />
+      <workItem from="1530924362532" duration="5362000" />
+      <workItem from="1531410105625" duration="705000" />
+      <workItem from="1531486446143" duration="594000" />
+      <workItem from="1531488947546" duration="26049000" />
+      <workItem from="1531626309188" duration="13355000" />
+      <workItem from="1531698144805" duration="569000" />
+      <workItem from="1531750135771" duration="49080000" />
+      <workItem from="1532345117836" duration="32053000" />
+      <workItem from="1532958421356" duration="4875000" />
+      <workItem from="1533222644723" duration="485000" />
+      <workItem from="1533264326215" duration="475000" />
+      <workItem from="1533821228188" duration="609000" />
+      <workItem from="1533974587254" duration="887000" />
+      <workItem from="1534172117070" duration="387000" />
+      <workItem from="1536848773045" duration="2654000" />
+      <workItem from="1537087364426" duration="11033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="181356000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="242" y="235" width="1576" height="763" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15699208" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15699208" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/controllers/Inputtoeicp3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="31" lean-forward="false" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/allProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/part5question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/inputp52.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/inputp53.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Toeic_part_6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/editPart1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminInsertNew.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="152" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/YiZSzkTGaa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="226" column="8" lean-forward="false" selection-start-line="226" selection-start-column="8" selection-end-line="233" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/inputp7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="10" column="98" lean-forward="false" selection-start-line="10" selection-start-column="98" selection-end-line="10" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/inputp2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Inputtoeicp2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="18" column="63" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/inputp5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Inputtoeicp5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/allBlog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/San_pham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2024">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bai_viet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blog_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Toeic_part_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/vocaword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="104" lean-forward="false" selection-start-line="78" selection-start-column="104" selection-end-line="78" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Loi404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/comingsoon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Foru.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Toeic_part_7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Inputtoeicp7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/FeDb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="112" column="44" lean-forward="false" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Inputtoeicp6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Grammar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/4u.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Inputtoeicp1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="313" column="5" lean-forward="false" selection-start-line="313" selection-start-column="5" selection-end-line="313" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/InputData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="58" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="10" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/inputp1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/toeic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/grammar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <marker date="1537090137748" expanded="true" signature="1109:1796" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="1267:1288" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="1267:1289" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="1267:1564" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="1416:1543" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="1584:1777" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="1934:4355" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="1988:2434" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="2151:2415" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="2500:4306" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="2646:4287" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="2739:2926" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="2951:3138" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="3163:3350" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="3375:3562" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="3654:3841" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="3866:4053" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="4078:4265" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="4383:5207" ph="..." />
+            <marker date="1537090137748" expanded="true" signature="4487:4951" ph="{...}" />
+            <marker date="1537090137748" expanded="true" signature="4529:4937" ph="{...}" />
+            <marker date="1537090137748" expanded="true" signature="4596:4805" ph="{...}" />
+            <marker date="1537090137748" expanded="true" signature="4700:4791" ph="{...}" />
+            <marker date="1537090137748" expanded="true" signature="5017:5196" ph="{...}" />
+            <marker date="1537090137748" expanded="true" signature="5046:5112" ph="{...}" />
+            <marker date="1537090137748" expanded="true" signature="5116:5190" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/inputp6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="18" column="62" lean-forward="false" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/toeicp1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2812">
+          <caret line="214" column="14" lean-forward="false" selection-start-line="214" selection-start-column="14" selection-end-line="214" selection-end-column="14" />
+          <folding>
+            <marker date="1536851137970" expanded="true" signature="2596:3294" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/toeicp2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="245" column="56" lean-forward="false" selection-start-line="245" selection-start-column="56" selection-end-line="245" selection-end-column="56" />
+          <folding>
+            <marker date="1537090923512" expanded="true" signature="3108:3866" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="4346:5104" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="5584:6342" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="6824:7582" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="8305:9063" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="9545:10303" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="10785:11543" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="12025:12783" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="13506:14264" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="14746:15504" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="15986:16744" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="17226:17984" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="19253:19388" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="19329:19388" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="19818:19953" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="19894:19953" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="20324:20459" ph="..." />
+            <marker date="1537090923512" expanded="true" signature="20400:20459" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/toeicp4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="337" column="52" lean-forward="false" selection-start-line="337" selection-start-column="52" selection-end-line="337" selection-end-column="52" />
+          <folding>
+            <marker date="1537090923797" expanded="true" signature="3626:4392" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="5083:5849" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="6781:7547" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="8240:9006" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="9940:10706" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="11399:12165" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="13093:13859" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="14552:15318" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="16246:17012" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="17705:18471" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="20222:20357" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="20298:20357" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="20825:20960" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="20901:20960" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="21429:21564" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="21505:21564" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="22034:22169" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="22110:22169" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="22639:22774" ph="..." />
+            <marker date="1537090923797" expanded="true" signature="22715:22774" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/toeicp6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding>
+            <marker date="1536851808856" expanded="true" signature="1644:2508" ph="..." />
+            <marker date="1536851808856" expanded="true" signature="1756:2474" ph="..." />
+            <marker date="1536851808856" expanded="true" signature="2585:3447" ph="..." />
+            <marker date="1536851808856" expanded="true" signature="2695:3413" ph="..." />
+            <marker date="1536851808856" expanded="true" signature="3524:4387" ph="..." />
+            <marker date="1536851808856" expanded="true" signature="3635:4353" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/toeicp7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="95" column="27" lean-forward="true" selection-start-line="95" selection-start-column="27" selection-end-line="95" selection-end-column="27" />
+          <folding>
+            <marker date="1536851900377" expanded="true" signature="2325:2927" ph="..." />
+            <marker date="1536851900377" expanded="true" signature="3095:3701" ph="..." />
+            <marker date="1536851900377" expanded="true" signature="3869:4475" ph="..." />
+            <marker date="1536851900377" expanded="true" signature="4643:5249" ph="..." />
+            <marker date="1536851900377" expanded="true" signature="5417:6023" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/toeicp3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="273" column="52" lean-forward="false" selection-start-line="273" selection-start-column="52" selection-end-line="273" selection-end-column="52" />
+          <folding>
+            <marker date="1537090923685" expanded="true" signature="3682:4600" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="5267:6185" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="7085:8003" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="8663:9581" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="10482:11400" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="12060:12978" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="13873:14791" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="15451:16369" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="17264:18182" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="18842:19760" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="21462:21597" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="21538:21597" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="22214:22349" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="22290:22349" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="22906:23041" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="22982:23041" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="23599:23734" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="23675:23734" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="24292:24427" ph="..." />
+            <marker date="1537090923685" expanded="true" signature="24368:24427" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/toeicp5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="73" column="12" lean-forward="true" selection-start-line="73" selection-start-column="12" selection-end-line="159" selection-end-column="36" />
+          <folding>
+            <marker date="1537090923886" expanded="true" signature="1187:1901" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/bottom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="120" lean-forward="false" selection-start-line="10" selection-start-column="120" selection-end-line="10" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="58" column="51" lean-forward="false" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/grammar-detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="132" column="32" lean-forward="false" selection-start-line="132" selection-start-column="32" selection-end-line="132" selection-end-column="32" />
+          <folding>
+            <marker date="1537092579103" expanded="true" signature="527:948" ph="..." />
+            <marker date="1537092579103" expanded="true" signature="760:915" ph="..." />
+            <marker date="1537092579103" expanded="true" signature="1386:1578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/vocalist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <marker date="1537364921509" expanded="true" signature="1312:1343" ph="..." />
+            <marker date="1537364921509" expanded="true" signature="1312:1440" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/home-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="870" column="0" lean-forward="true" selection-start-line="870" selection-start-column="0" selection-end-line="870" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/vocabulary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="124" selection-end-column="43" />
+          <folding>
+            <marker date="1537370353969" expanded="true" signature="7104:7232" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Vocabulary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
